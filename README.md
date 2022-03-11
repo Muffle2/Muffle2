@@ -16,4 +16,4 @@ I am a beginner of programming and i like learn programming
 - <img src="https://progress-bar.dev/5/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20RUST%20&width=300&color=ff0000">
 
 #🧨 | Contact
-<details><summary>DISCORD</summary><img src="https://cdn.discordapp.com/attachments/887755071885045810/918624647296192573/unknown.png"></details>
+<details><summary>DISCORD</summary><img src="https://media.discordapp.net/attachments/875844414440886347/951913998561992734/unknown.png"></details>
