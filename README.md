@@ -16,5 +16,5 @@ Actualmente estoy aprendiendo Python y JavaScript
 - <img src="https://progress-bar.dev/40/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20CSS%20&width=300&color=ff0000">
 
 #🧨 | Contact
-<details><summary>DISCORD</summary><img src="https://media.discordapp.net/attachments/1005465474823356556/1005465507241132042/unknown.png"></details>
+<details><summary>DISCORD</summary><img src="https://media.discordapp.net/attachments/1005465474823356556/1005465507241132042/unknown.png"><a href="https://discord.com/users/333363893546123264">Perfil de discord!</a></details>
 
