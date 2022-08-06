@@ -3,7 +3,7 @@
 </p>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-#🎇 | About me - Who Am I?
+#🎇 | Sobre mi - Quien soy?
 
 Hola! Soy dev de bots de discord y dueño de Kroppy
 
