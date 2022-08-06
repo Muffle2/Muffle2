@@ -10,7 +10,7 @@ I am a beginner of programming and i like learn programming
 #🎃 | Skills
 
 - <img src="https://progress-bar.dev/75/?title=%F0%9F%93%A0%20|%20HTML%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/45/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20discord.py%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/45/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Nextcord%20&width=300&color=ff0000">
 - <img src="https://progress-bar.dev/40/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20CSS%20&width=300&color=ff0000">
 
 #🧨 | Contact
