@@ -5,7 +5,9 @@
 
 #🎇 | About me - Who Am I?
 
-I am a beginner of programming and i like learn programming
+Hola! Soy dev de bots de discord y dueño de Kroppy
+
+Actualmente estoy aprendiendo Python y JavaScript
 
 #🎃 | Skills
 
@@ -15,3 +17,4 @@ I am a beginner of programming and i like learn programming
 
 #🧨 | Contact
 <details><summary>DISCORD</summary><img src="https://media.discordapp.net/attachments/875844414440886347/951913998561992734/unknown.png"></details>
+<details><summary>PERFIL</summary><p>https://discord.com/users/333363893546123264</p></details>
