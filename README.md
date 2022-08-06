@@ -17,4 +17,6 @@ Actualmente estoy aprendiendo Python y JavaScript
 
 #🧨 | Contact
 <details><summary>DISCORD</summary><img src="https://media.discordapp.net/attachments/1005465474823356556/1005465507241132042/unknown.png"><details><summary>Perfil de discord!</summary><a href="https://discord.com/users/333363893546123264">Link del perfil</a></details>
+
+ 
 <details><summary>Twitter</summary><a href="https://twitter.com/Muffle__"Twitter</a></details>
