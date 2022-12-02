@@ -1,18 +1,25 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=700&size=35&duration=7000&pause=1000&color=861A8D&width=500&lines=Bienvenidos+a+mi+perfil+%3C3" alt="Imagen" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 
-# 🎇 | Sobre mi - Quien soy?
+# 🎇 | Sobre mi - ¿Quien soy?
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=700&size=35&duration=7000&pause=1000&color=861A8D&width=500&lines=Bienvenidos+a+mi+perfil+%3C3" alt="Imagen"/></p>
 
-Hola! Soy dev de bots de discord y dueño de Kroppy
 
-Actualmente estoy aprendiendo Python y JavaScript
 
-# 🎃 | Skills
+- ¡Hey! Soy Muffle, desarrollador y programador de bots de discord, actualmente tengo 15 años y soy furro, me gusta charlar con mis amigos y jugar video juegos como **war thunder**.
+- Tengo actualmente algunos proyectos importantes como [Kroppy](https://top.gg/bot/875974356633788436)
+- Actualmente estoy aprendiendo `python`.
 
-- <img src="https://progress-bar.dev/75/?title=%F0%9F%93%A0%20|%20HTML%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/45/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Nextcord%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/40/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20CSS%20&width=300&color=ff0000">
+# 🎃 | Skills 
+
+- <img src="https://progress-bar.dev/60/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Nextcord%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/10/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Python%20&width=300&color=ff0000">
+
+![Muffle Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Muffle2&layout=compact&langs_count=3&custom_title=Lenguajes_usados)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muffle2&hide=contribs,prs&theme=highcontrast)
 
 # 🧨 | Contact
 <details><summary>Contactos</summary><details><summary>Perfil de discord!</summary><a href="https://discord.com/users/333363893546123264">Link del perfil</a></details>
