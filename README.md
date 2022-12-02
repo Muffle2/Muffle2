@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=7000&pause=1000&width=435&lines=Bienvenidos+a+mi+perfil+%3C3" alt="Typing SVG" /></a>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 
