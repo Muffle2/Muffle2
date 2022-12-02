@@ -2,6 +2,20 @@
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 </p>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <div class="container">
+    <h1 class="auto-type2"></h1>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+  <script>
+    var typed = new Typed(".auto-type2",{
+      strings : ["Bienvenidos a Kroppy","Espero que disfrutes del bot"],
+      typeSpeed : 150,
+      backSpeed : 150,
+      looped : true
+    })
+  </script>
 
 # 🎇 | Sobre mi - Quien soy?
 
