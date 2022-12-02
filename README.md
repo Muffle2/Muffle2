@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=7000&pause=1000&width=435&lines=Bienvenidos+a+mi+perfil+%3C3" alt="Imagen" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=700&size=35&duration=7000&pause=1000&color=861A8D&width=500&lines=Bienvenidos+a+mi+perfil+%3C3" alt="Imagen" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 
