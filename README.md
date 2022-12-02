@@ -12,7 +12,8 @@
 
 # 🎃 | Skills 
 
-![Muffle Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Muffle2&layout=compact&langs_count=3&custom_title=Lenguajes_usados) 
+- <img src="https://progress-bar.dev/60/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Nextcord%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/10/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20Python%20&width=300&color=ff0000">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muffle2&hide=contribs,prs&theme=highcontrast)
 
