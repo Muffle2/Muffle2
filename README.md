@@ -15,6 +15,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muffle2&hide=contribs,prs&theme=highcontrast)
 
+# 📊 | Proyectos
+
+[![Proyectos](https://github-readme-stats.vercel.app/api/pin/?username=Muffle2&repo=Chill-fur)](https://github.com/Muffle2/Chill-fur)
+
 # 🧨 | Contact
 <details><summary>Contactos</summary><details><summary>Perfil de discord!</summary><a href="https://discord.com/users/333363893546123264">Link del perfil</a></details>
   <details><summary>Twitter</summary><a href="https://twitter.com/Muffle__">Perfil de twitter</a></details>
